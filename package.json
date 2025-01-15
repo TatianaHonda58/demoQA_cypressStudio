@@ -1,0 +1,10 @@
+{
+  "name": "demoqa-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tatiana Honda",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
